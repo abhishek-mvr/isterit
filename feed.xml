@@ -3,8 +3,8 @@
   <channel>
     <title>ISTE RIT UNIT</title>
     <description>The Indian Society for Technical Education is a national, professional, non-profit Society registered under the Indian Societies Registration Act</description>
-    <link>https://abhi1401.github.io/isterit/isterit//</link>
-    <atom:link href="https://abhi1401.github.io/isterit/isterit//feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://abhi1401.github.io/isterit/</link>
+    <atom:link href="https://abhi1401.github.io/isterit/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>ISTE Month Celebrations</title>
@@ -27,8 +27,8 @@ India, 686501&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 11 Feb 2017 05:30:00 +0530</pubDate>
-        <link>https://abhi1401.github.io/isterit/isterit//Some-Events</link>
-        <guid isPermaLink="true">https://abhi1401.github.io/isterit/isterit//Some-Events</guid>
+        <link>https://abhi1401.github.io/isterit/Some-Events</link>
+        <guid isPermaLink="true">https://abhi1401.github.io/isterit/Some-Events</guid>
       </item>
     
       <item>
@@ -52,8 +52,8 @@ India, 686501&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 11 Feb 2017 05:30:00 +0530</pubDate>
-        <link>https://abhi1401.github.io/isterit/isterit//A-general-blog-post</link>
-        <guid isPermaLink="true">https://abhi1401.github.io/isterit/isterit//A-general-blog-post</guid>
+        <link>https://abhi1401.github.io/isterit/A-general-blog-post</link>
+        <guid isPermaLink="true">https://abhi1401.github.io/isterit/A-general-blog-post</guid>
       </item>
     
   </channel>
