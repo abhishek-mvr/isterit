@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ISTE RIT UNIT</title>
+    <title>ISTE RIT CHAPTER</title>
     <description>The Indian Society for Technical Education is a national, professional, non-profit Society registered under the Indian Societies Registration Act</description>
     <link>https://abhi1401.github.io/isterit/</link>
     <atom:link href="https://abhi1401.github.io/isterit/feed.xml" rel="self" type="application/rss+xml" />
