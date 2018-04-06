@@ -1,1 +1,1 @@
-Sitemap: https://abhi1401.github.io/isterit/sitemap.xml
+Sitemap: https://abhi1401.github.io/sitemap.xml
