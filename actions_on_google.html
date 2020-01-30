@@ -107,9 +107,7 @@
 </header>
 
 	<div class="content-wrapper">
-
-	    <div class="jumbotron text-left">
-                            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -120,15 +118,15 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="https://abhi1401.github.io/isterit/img/actions4.jpeg" alt="action1">
+      <img id="im" src="https://abhi1401.github.io/isterit/img/actions4.jpeg" alt="action1">
     </div>
 
     <div class="item">
-      <img src="https://abhi1401.github.io/isterit/img/actions5.jpeg" alt="action2">
+      <img id="im" src="https://abhi1401.github.io/isterit/img/actions5.jpeg" alt="action2">
     </div>
 
     <div class="item">
-      <img src="https://abhi1401.github.io/isterit/img/actions6.jpeg" alt="action3">
+      <img id="im" src="https://abhi1401.github.io/isterit/img/actions6.jpeg" alt="action3">
     </div>
   </div>
 
@@ -142,7 +140,8 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
-
+	    <div class="jumbotron text-left">
+    
 	        <div class="animated hiding" data-animation="fadeInLeft" data-delay="500">
 	            <h1>Actions-on-Google</h1>
 	        </div>
@@ -267,6 +266,11 @@ s.setAttribute('data-timestamp', +new Date());
 <style type="text/css">
     .f{
         background-color: #e6e6e6;
+    }
+    #im{
+        width: 100%;
+        height: auto;
+        opacity: 0.9;
     }
 </style>
                 <!-- Begin Footer -->
